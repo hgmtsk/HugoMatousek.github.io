@@ -8,7 +8,7 @@ a {
     color: red;
   }
 
-a:hoover {
+a:hover {
     color: aqua;
   }
 
