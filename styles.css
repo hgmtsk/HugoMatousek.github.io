@@ -1,0 +1,31 @@
+body {
+    background-color: powderblue;
+  }
+h1 {
+    color: blue;
+  }
+a {
+    color: red;
+  }
+
+a:hoover {
+    color: aqua;
+  }
+
+.class_1 {
+    background-color: azure;
+  }
+
+.class_2 {
+    background-color: blueviolet;
+  }
+
+#id_1 {
+    background-color: chartreuse;
+  }
+
+@media only screen and (max-width: 600px) {
+    body {
+    background-color: rgb(35, 60, 68);
+    }
+  }
